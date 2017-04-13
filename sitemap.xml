@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://boryyytoe.github.io/gctctest/expo/</loc>
-    <lastmod>2017-04-06T10:43:14-04:00</lastmod>
+    <loc>https://boryyytoe.github.io/gctctest/partners/</loc>
+    <lastmod>2017-04-13T11:07:01-04:00</lastmod>
   </url>
   
   <url>
@@ -23,14 +23,22 @@
   
   <url>
     <loc>https://boryyytoe.github.io/gctctest/tags/</loc>
-    <lastmod>2017-04-06T10:43:14-04:00</lastmod>
+    <lastmod>2017-04-06T09:56:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://boryyytoe.github.io/gctctest/categories/</loc>
-    <lastmod>2017-04-06T10:43:14-04:00</lastmod>
+    <lastmod>2017-04-06T09:56:37-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://boryyytoe.github.io/gctctest/expo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://boryyytoe.github.io/gctctest/expo/about-gctc-expo/</loc>
   </url>
   
   <url>
@@ -43,12 +51,17 @@
   </url>
   
   <url>
+    <loc>https://boryyytoe.github.io/gctctest/expo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://boryyytoe.github.io/gctctest/faq/</loc>
   </url>
   
   <url>
     <loc>https://boryyytoe.github.io/gctctest/</loc>
-    <lastmod>2017-04-06T10:43:14-04:00</lastmod>
+    <lastmod>2017-04-13T11:07:01-04:00</lastmod>
     <priority>0</priority>
   </url>
   
