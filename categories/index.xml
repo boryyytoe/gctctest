@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Global City Team Challenge</title>
-    <link>http://sites.dev.eidev.com/gctc/categories/index.xml</link>
+    <link>/categories/index.xml</link>
     <description>Recent content on Global City Team Challenge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2017, Global City Team Challenge all rights reserved.</copyright>
-    <atom:link href="http://sites.dev.eidev.com/gctc/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GLOBAL CITY TEAMS CHALLENGE EXPO 2017</title>
-      <link>http://sites.dev.eidev.com/gctc/expo/</link>
+      <link>/expo/</link>
       <pubDate>Thu, 06 Apr 2017 10:43:14 -0400</pubDate>
       
-      <guid>http://sites.dev.eidev.com/gctc/expo/</guid>
+      <guid>/expo/</guid>
       <description>
 
 &lt;h3 id=&#34;august-28-29-the-walter-e-washington-convention-center-washington-dc&#34;&gt;AUGUST 28-29 | THE WALTER E. WASHINGTON CONVENTION CENTER | WASHINGTON, DC&lt;/h3&gt;
@@ -33,16 +33,16 @@
 
 &lt;p&gt;&lt;a href=&#34;mailto:sokwoo.rhee@nist.gov?subject=General question about the 2017 Global City Teams Challenge (GCTC) Expo&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://sites.dev.eidev.com/gctc/gctc/uploads/2017/04/06/AdobeStock_22332317-10.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/gctc/uploads/2017/04/06/AdobeStock_22332317-10.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Action Clusters</title>
-      <link>http://sites.dev.eidev.com/gctc/action-clusters/</link>
+      <link>/action-clusters/</link>
       <pubDate>Thu, 06 Apr 2017 09:56:37 -0400</pubDate>
       
-      <guid>http://sites.dev.eidev.com/gctc/action-clusters/</guid>
+      <guid>/action-clusters/</guid>
       <description>&lt;p&gt;There are more than 200 organizations participating in GCTC smart city technology projects, called Action Clusters. These participants include representatives from U.S. cities and states, major cities in other countries, government agencies, private companies, non-profits, universities, hospitals, and a variety of municipal-focused organizations.&lt;/p&gt;
 
 &lt;style type=&#34;text/css&#34;&gt;
@@ -270,11 +270,11 @@ font-weight: bold;
     </item>
     
     <item>
-      <title>Super Clusters</title>
-      <link>http://sites.dev.eidev.com/gctc/super-clusters/</link>
+      <title>SuperClusters</title>
+      <link>/super-clusters/</link>
       <pubDate>Tue, 04 Apr 2017 14:13:43 +0000</pubDate>
       
-      <guid>http://sites.dev.eidev.com/gctc/super-clusters/</guid>
+      <guid>/super-clusters/</guid>
       <description>
 
 &lt;p class=&#34;&#34;&gt;A SuperCluster is a collaboration of Action Clusters with participation from additional individual entities. This approach enables project teams to join forces and pursue shared objectives and common approaches for collaborative deployment across multiple communities/cities. Examples of grand challenges to be tackled include multi-city resilience to large-scale natural disasters, intelligent transportation systems that work in any city, and regional air quality improvements through coordinated local action.&lt;/p&gt;

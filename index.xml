@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Global City Team Challenge</title>
-    <link>http://sites.dev.eidev.com/gctc/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on Global City Team Challenge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016 - 2017, Global City Team Challenge all rights reserved.</copyright>
     <lastBuildDate>Thu, 06 Apr 2017 10:43:14 -0400</lastBuildDate>
-    <atom:link href="http://sites.dev.eidev.com/gctc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GLOBAL CITY TEAMS CHALLENGE EXPO 2017</title>
-      <link>http://sites.dev.eidev.com/gctc/expo/</link>
+      <link>/expo/</link>
       <pubDate>Thu, 06 Apr 2017 10:43:14 -0400</pubDate>
       
-      <guid>http://sites.dev.eidev.com/gctc/expo/</guid>
+      <guid>/expo/</guid>
       <description>
 
 &lt;h3 id=&#34;august-28-29-the-walter-e-washington-convention-center-washington-dc&#34;&gt;AUGUST 28-29 | THE WALTER E. WASHINGTON CONVENTION CENTER | WASHINGTON, DC&lt;/h3&gt;
@@ -34,16 +34,16 @@
 
 &lt;p&gt;&lt;a href=&#34;mailto:sokwoo.rhee@nist.gov?subject=General question about the 2017 Global City Teams Challenge (GCTC) Expo&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://sites.dev.eidev.com/gctc/gctc/uploads/2017/04/06/AdobeStock_22332317-10.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/gctc/uploads/2017/04/06/AdobeStock_22332317-10.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Action Clusters</title>
-      <link>http://sites.dev.eidev.com/gctc/action-clusters/</link>
+      <link>/action-clusters/</link>
       <pubDate>Thu, 06 Apr 2017 09:56:37 -0400</pubDate>
       
-      <guid>http://sites.dev.eidev.com/gctc/action-clusters/</guid>
+      <guid>/action-clusters/</guid>
       <description>&lt;p&gt;There are more than 200 organizations participating in GCTC smart city technology projects, called Action Clusters. These participants include representatives from U.S. cities and states, major cities in other countries, government agencies, private companies, non-profits, universities, hospitals, and a variety of municipal-focused organizations.&lt;/p&gt;
 
 &lt;style type=&#34;text/css&#34;&gt;
@@ -271,11 +271,11 @@ font-weight: bold;
     </item>
     
     <item>
-      <title>Super Clusters</title>
-      <link>http://sites.dev.eidev.com/gctc/super-clusters/</link>
+      <title>SuperClusters</title>
+      <link>/super-clusters/</link>
       <pubDate>Tue, 04 Apr 2017 14:13:43 +0000</pubDate>
       
-      <guid>http://sites.dev.eidev.com/gctc/super-clusters/</guid>
+      <guid>/super-clusters/</guid>
       <description>
 
 &lt;p class=&#34;&#34;&gt;A SuperCluster is a collaboration of Action Clusters with participation from additional individual entities. This approach enables project teams to join forces and pursue shared objectives and common approaches for collaborative deployment across multiple communities/cities. Examples of grand challenges to be tackled include multi-city resilience to large-scale natural disasters, intelligent transportation systems that work in any city, and regional air quality improvements through coordinated local action.&lt;/p&gt;
@@ -290,10 +290,10 @@ font-weight: bold;
     
     <item>
       <title>About GCTC</title>
-      <link>http://sites.dev.eidev.com/gctc/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 03 Apr 2017 10:58:28 -0400</pubDate>
       
-      <guid>http://sites.dev.eidev.com/gctc/about/</guid>
+      <guid>/about/</guid>
       <description>
 
 &lt;h2 id=&#34;learn-about-the-global-city-teams-challenge&#34;&gt;Learn about the Global City Teams Challenge&lt;/h2&gt;
@@ -310,10 +310,10 @@ font-weight: bold;
     
     <item>
       <title>Contact</title>
-      <link>http://sites.dev.eidev.com/gctc/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sites.dev.eidev.com/gctc/contact/</guid>
+      <guid>/contact/</guid>
       <description>
 
 &lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;
@@ -326,10 +326,10 @@ font-weight: bold;
     
     <item>
       <title>FAQ</title>
-      <link>http://sites.dev.eidev.com/gctc/faq/</link>
+      <link>/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sites.dev.eidev.com/gctc/faq/</guid>
+      <guid>/faq/</guid>
       <description>
 
 &lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
